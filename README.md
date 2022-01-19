@@ -1,6 +1,6 @@
 ### Bienvenue ```, je suis Hergli Manel
 
-### Je vis à Sousse TUNISIE et je suis développeur web.
+### Je vis à Sousse TUNISIE et je suis développeuse web.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
