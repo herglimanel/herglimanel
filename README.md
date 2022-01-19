@@ -66,7 +66,7 @@ Oui
   <br/>
   <a href="mailto:lunde@adobe.com?subject=Bonjour!">
     <img alt="manel.hergli@outlook.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png"/>
-  <a href="https://www.linkedin.com/in/rollet-raphael/">
+  <a href="https://www.linkedin.com/in/manel-hergli-9227034b/">
     <img alt="Linkedin Manel Hergli" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
 </p>
