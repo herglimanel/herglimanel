@@ -11,12 +11,12 @@
 J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de **programmation** et
 de **design** deux éléments qui m'intéressent **grandement.**
 
-### Etude MIT, Harvard ?
+### Etude MIT, POLYTECHNIQUE?
 ```javascript
-const raphael = new Object();
+const MANEL = new Object();
 function God() {
-  if(raphael.diplomes > 0){
-    return console.log("I'm you'r graduate men !");
+  if(MANEL.diplomes > 0){
+    return console.log("I'm you'r graduate GIRL !");
   }
  return console.log("Sorry, i can do nothing for you.");
 }
